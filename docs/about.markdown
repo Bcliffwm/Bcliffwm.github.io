@@ -14,5 +14,6 @@ You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
+Bard is an amazing boy. He is just the most playful dog anyone could ever ask for.
 
 [jekyll-organization]: https://github.com/jekyll
