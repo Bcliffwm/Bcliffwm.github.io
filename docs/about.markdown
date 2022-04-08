@@ -16,4 +16,6 @@ You can find the source code for Jekyll at GitHub:
 
 Bard is an amazing boy. He is just the most playful dog anyone could ever ask for.
 
+Mocha Chip and Hazelnut are the best of friends. They love to wrestle with each other!
+
 [jekyll-organization]: https://github.com/jekyll
