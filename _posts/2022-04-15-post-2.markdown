@@ -3,7 +3,8 @@ layout: post
 title:  "Here's post 2!"
 date:   2022-04-15 10:22:52 -0400
 categories: jekyll update
-image: /assets/images/all_plats_func.html
+image: /assets/images/platform1_pie_charts.png
 ---
-
-![]{{ page.image }}
+# Pie charts from another project
+What we are trying to achieve here is to emulate the site building process for our final blog.
+![]({{ page.image }})
