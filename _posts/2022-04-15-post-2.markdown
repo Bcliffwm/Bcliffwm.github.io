@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Here's post 2!"
+date:   2022-04-15 10:22:52 -0400
+categories: jekyll update
+image: /assets/images/all_plats_func.html
+---
+
+![]{{ page.image }}
