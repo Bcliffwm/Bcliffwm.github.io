@@ -31,7 +31,7 @@ github_username:  Bcliffwm
 github_username: BethlehemB
 
 # Build settings
-remote-theme: pages-themes/cayman@0.2.0 
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
