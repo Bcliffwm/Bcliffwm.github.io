@@ -6,7 +6,7 @@ categories: jekyll update
 image: /assets/images/Whiteboard.png
 ---
 
-This is a post.
+This is a demonstration!
 
 ![]({{ page.image }})
 
